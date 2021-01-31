@@ -226,7 +226,7 @@ li + li {
     <body>
         <div class = "hero">
             <div class="navbar">
-                <img style=" width: 300px; cursor: pointer;" src="../../static/info/images/fiu_logo.png">
+                <img style=" width: 300px; cursor: pointer;" src="https://users.cs.fiu.edu/~mullerk/logo/fiuhorizontaltrans.png">
                 <button type="button">Sign Up</button>
             </div>
             <div class="content">
@@ -249,25 +249,25 @@ li + li {
                 <h2> Samara Ruiz Sandoval</h2>
             </div>
             <div class="side-bar">  
-                <img style=" display: block; width: 25px; margin: 40px auto 0; cursor: pointer;" src="../../static/info/images/menu.png">
+                <img style=" display: block; width: 25px; margin: 40px auto 0; cursor: pointer;" src="https://1.bp.blogspot.com/-w8Yk2_OGJno/YBbcjbU-aWI/AAAAAAAAASk/BwywkdxPXtAGPxsIupJ9Z5CgalrsRiM8gCLcBGAsYHQ/s74/menu.png">
                 <div class="social-links">
-                    <img src="../../static/info/images/fb.png">
-                    <img src="../../static/info/images/ig.png">
-                    <img src="../../static/info/images/tw.png">
+                    <img src="https://1.bp.blogspot.com/-cfnokofI9ls/YBbciJczW3I/AAAAAAAAASQ/dzwS8KdweBM59Yv7KrHSEBSV601PRcNogCLcBGAsYHQ/s64/fb.png">
+                    <img src="https://1.bp.blogspot.com/-4_jddnfcn_E/YBbcivN7lxI/AAAAAAAAASU/033rXBaviLQqLUvizkwmAPOdfc7BtphSwCLcBGAsYHQ/s64/ig.png">
+                    <img src="https://1.bp.blogspot.com/-UIopXOWvY4k/YBbckVEK2DI/AAAAAAAAASs/44kZPBSV2l4lvwjn2GgbiKUwCieD15n0QCLcBGAsYHQ/s64/tw.png">
                 </div>
                 <div class="useful-links">
-                    <img src="../../static/info/images/share.png">
-                    <img src="../../static/info/images/info.png">
+                    <img src="https://1.bp.blogspot.com/-Aro2OYxX2Mk/YBbcj05a_dI/AAAAAAAAASo/9nVzhV5KYl4sTbFK16nYPfjgdUz0nuFJQCLcBGAsYHQ/s64/share.png">
+                    <img src="https://1.bp.blogspot.com/-fxlg20-Js04/YBbcig8CRJI/AAAAAAAAASY/zvXV1uaSagkCbaa_oVDUTlRwY_qTG7ReACLcBGAsYHQ/s64/info.png">
                 </div>
             </div>
             <div class="bubbles">
-                <img src="../../static/info/images/bubble.png">
-                <img src="../../static/info/images/bubble.png">
-                <img src="../../static/info/images/bubble.png">
-                <img src="../../static/info/images/bubble.png">
-                <img src="../../static/info/images/bubble.png">
-                <img src="../../static/info/images/bubble.png">
-                <img src="../../static/info/images/bubble.png">
+                <img src="https://1.bp.blogspot.com/-uxx43FIkMK4/YBbciJVCGaI/AAAAAAAAASM/_7vcetxRUHosBshexOp3NwJSCTggbEJQgCLcBGAsYHQ/s512/bubble.png">
+                <img src="https://1.bp.blogspot.com/-uxx43FIkMK4/YBbciJVCGaI/AAAAAAAAASM/_7vcetxRUHosBshexOp3NwJSCTggbEJQgCLcBGAsYHQ/s512/bubble.png">
+                <img src="https://1.bp.blogspot.com/-uxx43FIkMK4/YBbciJVCGaI/AAAAAAAAASM/_7vcetxRUHosBshexOp3NwJSCTggbEJQgCLcBGAsYHQ/s512/bubble.png">
+                <img src="https://1.bp.blogspot.com/-uxx43FIkMK4/YBbciJVCGaI/AAAAAAAAASM/_7vcetxRUHosBshexOp3NwJSCTggbEJQgCLcBGAsYHQ/s512/bubble.png">
+                <img src="https://1.bp.blogspot.com/-uxx43FIkMK4/YBbciJVCGaI/AAAAAAAAASM/_7vcetxRUHosBshexOp3NwJSCTggbEJQgCLcBGAsYHQ/s512/bubble.png">
+                <img src="https://1.bp.blogspot.com/-uxx43FIkMK4/YBbciJVCGaI/AAAAAAAAASM/_7vcetxRUHosBshexOp3NwJSCTggbEJQgCLcBGAsYHQ/s512/bubble.png">
+                <img src="https://1.bp.blogspot.com/-uxx43FIkMK4/YBbciJVCGaI/AAAAAAAAASM/_7vcetxRUHosBshexOp3NwJSCTggbEJQgCLcBGAsYHQ/s512/bubble.png">
             </div>
         </div>
     </body>
